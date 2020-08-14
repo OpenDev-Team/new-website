@@ -1,0 +1,2 @@
+hi lethdev
+what if open dev also teaches people coding via repl.it or glitch or vscode.
